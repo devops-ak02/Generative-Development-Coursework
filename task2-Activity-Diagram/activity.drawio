@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" modified="2024-03-01T14:36:40.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c4ttNlK5r5XxmqjGPJkN" version="24.0.0" type="device">
+  <diagram name="Page-1" id="SowVvgn7etAA_afrNMo8">
+    <mxGraphModel dx="2400" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jtra346txbolt30JQhGF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-1" value="" style="shape=ellipse;html=1;fillColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="targetPoint" />
+            <mxPoint x="200" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.63" y="280" as="targetPoint" />
+            <mxPoint x="419.63" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659.63" y="280" as="targetPoint" />
+            <mxPoint x="659.63" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-6" value="Accept Cloud Consultation Request" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-8" value="Assess Client Request&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="160" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-9" value="" style="line;strokeWidth=10;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="240" width="660" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jtra346txbolt30JQhGF-8" target="Jtra346txbolt30JQhGF-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-12" value="Estimate Costs" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-13" value="Plan DevOps Strategy" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="280" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-14" value="Design Cloud Architecture" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-15" value="" style="line;strokeWidth=10;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="360" width="660" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-13" target="Jtra346txbolt30JQhGF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.864;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jtra346txbolt30JQhGF-12" target="Jtra346txbolt30JQhGF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jtra346txbolt30JQhGF-14" target="Jtra346txbolt30JQhGF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.864;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.57" y="370" as="sourcePoint" />
+            <mxPoint x="419.57" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78260869565224" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-22" value="Merge Planning Activities" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="410" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-24" value="Solution Required" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="480" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jtra346txbolt30JQhGF-28" target="Jtra346txbolt30JQhGF-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-28" value="Configure standard solutions" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="560" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jtra346txbolt30JQhGF-29" target="Jtra346txbolt30JQhGF-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-29" value="Develop custom solutions" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="560" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78260869565224" y="669.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-30" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78260869565224" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-34" value="Deploy CI/CD Pipelines" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="730" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78260869565224" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-35" value="Implement Cloud Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="670" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.78260869565224" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-40" value="Execute QA Test" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="800" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jtra346txbolt30JQhGF-42" target="Jtra346txbolt30JQhGF-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-42" value="Does Solution meets standards" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="870" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.4117647058824" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-45" value="Identify issue" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="930" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jtra346txbolt30JQhGF-47" target="Jtra346txbolt30JQhGF-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-47" value="Refine &amp;amp; re-test" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="990" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.41176470588243" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-48" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.41176470588243" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-51" value="Send Deployment success notification" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jtra346txbolt30JQhGF-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.41176470588243" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-53" value="Provide Training &amp;amp; Support" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-55" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-56" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-57" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-58" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtra346txbolt30JQhGF-59" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

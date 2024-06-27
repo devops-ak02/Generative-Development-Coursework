@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hw1="http://www.example.org/hw1">
+  <hw1:Client employeeId="1" name="Client A">
+    <initiates projectId="p1" projectName="Project 1" startDate="2024-03-01T14:32:23.502+0000" endDate="2024-03-01T14:32:23.502+0000">
+      <automates deploymentId="d1" deploymentStatus="In Progress" qacheck="/1"/>
+    </initiates>
+    <initiates projectId="p2" projectName="Project 2" startDate="2024-03-01T14:32:23.502+0000" endDate="2024-03-01T14:32:23.502+0000">
+      <uses serviceName="AWS" serviceType="IaaS"/>
+    </initiates>
+  </hw1:Client>
+  <hw1:QualityAssurance qualityassuranceId="qa1" testStatus="Pass"/>
+  <hw1:QualityAssurance qualityassuranceId="qa2" testStatus="Fail"/>
+  <hw1:DevOpsEngineer employeeId="2" name="John Doe" role="DevOps Engineer" initiateDeployment="Deployment 1"/>
+</xmi:XMI>
